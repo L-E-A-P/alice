@@ -1,6 +1,6 @@
 ---
 image: images/ac.ponte.a.jpg
-title:
+title: Nel Paese
 layout: collection
 ---
 Ponte: strumento che collega due o più elementi, duo o più corpi, o che assicura la continuità di un corso d’acqua o di un avvallamento.
