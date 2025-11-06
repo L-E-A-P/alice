@@ -21,8 +21,8 @@ locale: it-IT
 title: "Alice"
 description: "Zebra Permanente"
 baseurl: "/alice" # the subpath of your site, e.g. "/blog"
-url: "https://L-E-A-P.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: /alice/images/ac.jpeg # path of site logo, e.g. "/images/logo.png"
+url: "https://www.leaphz.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: /images/ac.jpeg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -94,8 +94,8 @@ defaults:
 author:
   name: Alice Cortegiani
   email: alicecortegiani@gmail.com
-  picture: 
-  twitter: 
+  picture:
+  twitter:
   links:
     - title:
       url:
