@@ -1,5 +1,5 @@
 ---
-title: "Esempio di Draft"
+title: "esempio di Draft"
 categories:
   - test
 tags:

@@ -1,8 +1,9 @@
 ---
-title: "no hay camino"
+title: "... come un'argentea foschia luminosa"
 categories:
   - diario
 tags:
-  - documenti
+  - dream
+  - volontà interpretante
 share: false
 ---

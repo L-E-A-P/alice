@@ -4,5 +4,5 @@ layout: tags
 permalink: /tags/
 show_excerpts: true
 entries_layout: list
-image: /images/IMG_1004.jpeg
+#image: /images/IMG_1004.jpeg
 ---

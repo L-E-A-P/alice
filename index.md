@@ -1,5 +1,5 @@
 ---
-title: dream
+title: attraverso lo specchio
 layout: blog
 limit: 10
 show_excerpts: true
