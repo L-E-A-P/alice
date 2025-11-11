@@ -1,4 +1,5 @@
 ---
+title: dream
 layout: blog
 limit: 10
 show_excerpts: true

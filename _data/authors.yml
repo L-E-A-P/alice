@@ -1,15 +1,11 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Giuseppe:
-  name: Giuseppe Silvi
-  picture: /images/gs.jpg
-  twitter: "@giuseppesilvi"
-  bio: "Maestro di difesa contro le arti oscure. Inizia ad udire in età prenatale. Ascolta dall'età di 27 anni ma punta con rispetto a sentire."
+Alice:
+  name: Alice Cortegiani
+  picture: /images/ac.jpeg
+  bio: "Zebra Permanente"
   links:
-    - title: Twitter
-      url: https://twitter.com/giuseppesilvi
-      icon: fab fa-twitter-square
     - title: buymeacoffee
       url: http://buymeacoffee.com/?via=grammaton
       icon: fas fa-coffee
